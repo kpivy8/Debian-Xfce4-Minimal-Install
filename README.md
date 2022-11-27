@@ -102,7 +102,8 @@ apt install \
     xfce4-terminal \
     xfconf \
     xfdesktop4 \
-    xfwm4
+    xfwm4 \
+    ttf-wqy-zenhei
 ```
 
 From this point you should have a working Xfce desktop environment. You can reboot, and add only what you need going forward.
